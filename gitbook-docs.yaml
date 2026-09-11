@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: learning-lean
+  structure:
+    - type: space
+      key: space-learning-lean
+      title: learning-lean
+      path: learning-lean
+      default: true
+      content:
+        directory: ./
